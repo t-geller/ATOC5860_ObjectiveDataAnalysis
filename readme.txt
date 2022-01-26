@@ -1,0 +1,1 @@
+This is a repository for the Spring 2022 Objective Data Analysis class. In this repository are resources for data analysis in the atmospheric and oceanic sciences. Resources include step by step application labs with example code and homework prepared by the student. 
